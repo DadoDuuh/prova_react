@@ -1,0 +1,40 @@
+.page-home{
+    .ct1-home{
+        background-color: #f0ecec;
+        padding: 1em 0em 0em 0em;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-items: center;
+        
+        color: rgb(0, 0, 0);
+        margin: 0em 0em 1em 0em;
+    }
+    .ct1-home > h1{
+        margin: 0px;
+        
+    }
+    .ct2-conteudo{
+        background-color: #f0ecec;
+        min-height: 100vh;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+    }
+    .ct2-list{
+        margin-top: 1em;
+        width: 13em;
+        background-color: aquamarine;
+        border: 1px solid black;
+        border-radius: 20px;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .ct2-list > ul > li{
+        margin: 1em;
+    }
+}
