@@ -18,7 +18,6 @@ export default function Index() {
                     <li> <Link to='/Ingresso'>Ingresso</Link> </li>
                     <li> <Link to='/MaiorNumero'>Maior Numero</Link> </li>
                     <li> <Link to='/Dobro'>Dobro</Link> </li>
-                    <li> <Link to='/Soma'>Soma</Link> </li>
                 </ul>
                 </div>
             </div>
